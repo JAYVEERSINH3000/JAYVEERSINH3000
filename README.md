@@ -1,4 +1,4 @@
-# 👋 Jayveer Sinh
+# 👋 Jayveersinh
 
 ### 👨‍💻 Software Development Learner | CS Student
 
