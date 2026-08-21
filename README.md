@@ -1,6 +1,6 @@
 # 👋 Jayveersinh
 
-### 👨‍💻 Software Development Learner | CS Student | Sem-4
+### 👨‍💻 Software Development Learner | CSE Student | Sem-5
 
 ---
 
