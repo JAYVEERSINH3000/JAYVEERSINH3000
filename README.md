@@ -44,13 +44,6 @@ I enjoy understanding how systems work, writing clean code, and improving my log
 
 ---
 
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayveersinh3000&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayveersinh3000&layout=compact&theme=tokyonight)
-
----
 
 ## 🎯 Focus Areas
 
@@ -64,7 +57,8 @@ I enjoy understanding how systems work, writing clean code, and improving my log
 ## 📫 Connect With Me
 
 - 🐙 GitHub: https://github.com/jayveersinh3000  
-- 📧 Email: parmarjayveer3000@gmail.com  
+- 📧 Email: parmarjayveer3000@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jayveersinh-parmar-aa22103a8/ 
 
 ---
 
